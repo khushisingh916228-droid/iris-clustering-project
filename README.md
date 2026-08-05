@@ -9,7 +9,7 @@ Week 3 mini-project (ML & AI course) — Unsupervised Learning using K-Means Clu
 *Left: K-Means predicted clusters | Right: True species labels*
 
 ## 📁 Dataset
-## 📁 Dataset
+
 Built-in Iris dataset from scikit-learn (150 samples, 4 features: sepal length, sepal width, petal length, petal width). No manual download needed — it loads automatically via `sklearn.datasets.load_iris()`.
 ## 🔍 Steps
 1. Load dataset (`sklearn.datasets.load_iris`)
