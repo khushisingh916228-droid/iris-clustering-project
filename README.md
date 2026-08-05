@@ -1,7 +1,6 @@
 # 🌸 Iris Flower Clustering Project
 
-Week 3 mini-project (ML & AI course) — Unsupervised Learning using K-Means Clustering with PCA-based visualization on the classic Iris dataset.
-
+Week 3 mini-project for the **SkillNexis ML/AI course** — Unsupervised Learning using K-Means Clustering with PCA-based visualization on the classic Iris dataset.
 ## 📊 Result Visualization
 
 ![Iris Clusters](iris_clusters.png)
